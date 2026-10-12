@@ -1,0 +1,13 @@
+gradio>=5.20,<6
+streamlit>=1.50,<2
+opencv-python>=4.10,<4.13
+numpy>=1.26,<3
+Pillow>=10,<13
+pandas>=2.2,<3
+plotly>=5.24,<7
+pydantic>=2.9,<3
+python-dotenv>=1.0,<2
+google-genai>=1.0,<2
+PyYAML>=6,<7
+pyttsx3>=2.90,<3
+pytest>=8,<9

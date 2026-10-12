@@ -1,0 +1,10 @@
+path: ./data/dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: marker_barrel_crack
+  1: bottle_body_crack
+  2: bottle_deformation
+  3: charger_casing_crack
+  4: charger_pin_damage
